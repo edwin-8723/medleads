@@ -4,7 +4,8 @@ Mini-aplicación para una clínica ficticia de medicina estética: recibe solici
 
 - **Frontend:** Next.js (App Router) + TypeScript + Tailwind CSS
 - **Backend:** NestJS + TypeORM + PostgreSQL
-- **Enlace público:** _<pendiente: URL de Vercel>_
+- **Enlace público:** https://medleads-web.vercel.app
+- **API (Render):** https://medleads-api-ca9t.onrender.com/api/health — el plan gratuito de Render se duerme tras unos minutos sin uso, así que la primera petición puede tardar hasta ~50 segundos.
 - **Panel administrativo:** `/admin` (la contraseña de prueba se entrega por correo)
 
 ## Funcionalidades (requisitos obligatorios)
